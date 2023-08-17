@@ -1,0 +1,28 @@
+.tabl,th,td{
+	margin: 0 auto;
+	width: 700px;
+	border: 1px solid black;
+	border-collapse:collapse ;
+}
+.div1{
+	height: 170px;
+	background-color:whitesmoke;
+}
+.pre1{
+	font-family: cursive;
+}
+.pre2{
+	font-family:cursive;
+	background-color: whitesmoke;
+}
+.div2{
+	height: 500px;
+	background-color: whitesmoke;
+}
+.div3{
+	height: 50px;"
+}
+.div4{
+	height:500px;
+	float: right;
+}

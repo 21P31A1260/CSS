@@ -1,0 +1,46 @@
+  		*{
+  			margin:0px;
+  			padding: 0px;
+  			box-sizing: border-box;
+  		}
+  		.div1{
+			height:400px;
+			width:700px;
+		    background-color:black;
+		}  
+		.div2{
+			height:300px;
+			width: 600px;
+			background-color: skyblue;
+			margin: 50px 50px 50px 50px;
+		}	
+		.div3{
+			height:200px;
+			width:500px;
+			background-color: orange;
+			margin: 50px 50px 50px 50px;
+		}
+		.div4{
+			height:100px;
+			width: 400px;
+			background-color:brown;
+			margin: 50px 50px 50px 50px;
+		}
+		#a{
+			color: white;
+			padding-left: 150px;
+		}
+		#b{
+			color: white;
+			padding-left: 100px;
+		}
+		#c{
+			color: white;
+			padding-left: 50px;
+
+		}
+		#d{
+			color: white;
+			padding-left: 25px;
+
+		}
